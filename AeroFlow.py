@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Aero Flow",
+    "name": "AeroFlow",
     "blender": (3, 0, 0),
     "category": "Object",
 }
