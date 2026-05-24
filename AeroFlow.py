@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Simple Drag Estimator",
+    "name": "Aero Flow",
     "blender": (3, 0, 0),
     "category": "Object",
 }
